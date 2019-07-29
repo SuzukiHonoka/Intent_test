@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Intent_test</string>
+    <string name="main_hello">这里是主界面w如果程序运行正常，背景音乐应已经开始循环播放啦QWQ~</string>
+</resources>
